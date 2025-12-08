@@ -14,7 +14,7 @@ It highlights percentage job changes across regions and sub-industries, supporte
 ![Main Dashboard](Images/%25%20of%20Job%20Change%20UK%20Dashboard.jpg)
 
 ### Percentage Change by Sub_industry 
-![Percentage Change by Sub-industry](Images/Percentage%20Change%20by%20Sub_industry.jpg)
+![Percentage Change by Sub-industry](Images/Percentage%20Change%20by%20Sub-industry.jpg)
 
 
 ### Map of % Change  
