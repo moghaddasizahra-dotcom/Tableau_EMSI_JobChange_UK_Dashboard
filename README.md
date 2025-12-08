@@ -9,10 +9,10 @@ README.md — Project explanation
 
 ## Dashboard Screenshots
 ### % of Job Change UK Dashboard 
-![Main Dashboard](images/%25%20of%20Job%20Change%20UK%20Dashboard.jpg)
+![Main Dashboard](Images/%25%20of%20Job%20Change%20UK%20Dashboard.jpg)
 
 ### Percentage Change by Sub_industry 
-![Percentage Change by Sub_industry](images/Percentage%20Change%20by%20Sub_industry.png)
+![Percentage Change by Sub_industry](Images/Percentage%20Change%20by%20Sub_industry.png)
 
 ### Map of % Change  
 ![Map of % Change](Images/Map%20of%20%25%20Change.jpg)
@@ -22,7 +22,7 @@ README.md — Project explanation
 
 ## Interactive Dashboard (Tableau Public)
 View the live dashboard here:
-https://public.tableau.com/views/TableauD1_17652250520960/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/TableauD1_17652250520960/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Overview
 This project focuses on analysing labour-market shifts across the UK using the EMSI Job Change dataset.  
