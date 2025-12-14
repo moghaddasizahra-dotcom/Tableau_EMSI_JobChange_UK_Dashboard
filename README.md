@@ -10,7 +10,7 @@ It highlights percentage job changes across regions and sub-industries, supporte
 
 
 ## Dashboard Screenshots
-### % of Job Change UK Dashboard 
+### Percentage of Job Change UK Dashboard 
 ![Main Dashboard](Images/%25%20of%20Job%20Change%20UK%20Dashboard.jpg)
 
 ### Percentage Change by Sub_industry 
@@ -21,12 +21,13 @@ It highlights percentage job changes across regions and sub-industries, supporte
 ![Map of % Change](Images/Map%20of%20%25%20Change.jpg)
 
 ### Calculated Field  
-![Calculated Field](Images/Percentage%20Change%20by%20Sub-industry.jpg)
+![Calculated Field](Images/Calculated%20field.jpg)
 
 
 ## Interactive Dashboard (Tableau Public)
 View the live dashboard here:
-[Tableau Public Dashboard][Tableau Public Dashboard](https://public.tableau.com/views/TableauD1_17652250520960/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[Tableau Public Dashboard](https://public.tableau.com/views/TableauD1_17652250520960/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Project Overview
